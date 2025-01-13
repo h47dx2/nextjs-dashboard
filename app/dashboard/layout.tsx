@@ -1,4 +1,3 @@
-import { Metadata } from "next";
 import SideNav from "../ui/dashboard/sidenav";
 
 // export const experimental_ppr = true;
